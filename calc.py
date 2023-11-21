@@ -1,3 +1,5 @@
+# This project was completed by Uriel Martinez and Kieran Murray.
+
 # Factorial function
 def factorial(n):
   if n == 0:
